@@ -1,4 +1,2 @@
 # spending-analysis
-This project analyzes multi-month credit card  transaction data to identify spending trends across categories.
-Used Excel functions (SUM, AVERAGE) to calculate totals and monthly breakdown
-Created visualizations and summarized key insights to support data-driven analysis
+This project analyzes multi-month credit card transaction data using Excel to identify spending patterns across categories. Data was organized, aggregated, and visualized to highlight trends and support simple data-driven insights.
